@@ -1,0 +1,84 @@
+/*Content Area*/
+.container{
+	margin-top: 20%;
+	width: 40%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.content{
+	margin-top: 20%;
+	width: 100%;
+	background-color: rgba(238,238,238,0.6);
+}
+/*Next Button*/
+a {
+	text-decoration: none;
+}
+.btn{
+	background-color: rgba(131,122,122,0.6);
+	width: 10%;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	border-radius: 20%;
+}
+
+/*questions css*/
+.question1{
+	background-image: url("image/Sword Lake.jpg");
+	position: fixed; 
+  	top: 0;
+  	left: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.question2{
+	background-image: url("image/Hanoi Old Town.jpg");
+	position: fixed; 
+  	top: 0;
+  	left: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.question3{
+	background-image: url("image/Good_morning_Vietnam.jpg");
+	position: fixed; 
+  	top: 0;
+  	left: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.question4{
+	background-image: url("image/Born on the 4th of July.png");
+	position: fixed; 
+  	top: 0;
+  	left: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
+
+.question5{
+	background-image: url("image/communism1.jpg");
+	position: fixed;
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: top;
+	/* Preserve aspet ratio */
+	min-width: 100%;
+	min-height: 100%;
+}
